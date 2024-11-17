@@ -1,16 +1,36 @@
-## Hi there 👋
+ Hi, I'm Piyush Kumar 👋
 
-<!--
-**Piyush8114/Piyush8114** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sr. Flutter Developer 🚀
 
-Here are some ideas to get you started:
+Aspiring Flutter Developer | Enthusiastic about Mobile App Development 🚀  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠 Technologies I Work With
+### Backend:
+- Dart, Firebase, REST APIs 🌐  
+### Frontend:
+- Flutter, FlutterFlow, Android  
+
+---
+
+## 🔥 What I Offer:
+- Cross-platform mobile app development  
+- API integration and seamless UI/UX design  
+- Performance optimization for Flutter apps  
+
+---
+
+## 📈 GitHub Stats
+![Piyush's GitHub stats](https://github-readme-stats.vercel.app/api?username=Piyush8114&show_icons=true&theme=radical)
+
+---
+
+## 📫 How to Reach Me:
+- Email: [kumarpiyush13112003@gmail.com](mailto:kumarpiyush13112003@gmail.com)  
+- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/your-linkedin-profile/)  
+- GitHub: [@Piyush8114](https://github.com/Piyush8114)
+
+---
+
+Feel free to connect and collaborate! 🌟

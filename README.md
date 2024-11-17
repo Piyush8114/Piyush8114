@@ -28,9 +28,9 @@ Aspiring Flutter Developer | Enthusiastic about Mobile App Development 🚀
 
 ## 📫 How to Reach Me:
 - Email: [kumarpiyush13112003@gmail.com](mailto:kumarpiyush13112003@gmail.com)  
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/piyush-kumar-407775244/)  
-- GitHub: [@Piyush8114](https://github.com/Piyush8114)
-- Portfolio: [Portfolio](https://delightful-sprite-caec56.netlify.app/)
+- LinkedIn: [https://www.linkedin.com/in/piyush-kumar-407775244/](https://www.linkedin.com/in/piyush-kumar-407775244/)  
+- GitHub: [https://github.com/Piyush8114](https://github.com/Piyush8114)
+- Portfolio: [https://delightful-sprite-caec56.netlify.app/](https://delightful-sprite-caec56.netlify.app/)
 
 ---
 
